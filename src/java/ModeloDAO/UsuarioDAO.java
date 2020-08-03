@@ -9,6 +9,6 @@ package ModeloDAO;
  *
  * @author brune
  */
-public class EstudianteDAO {
+public class UsuarioDAO {
     
 }
